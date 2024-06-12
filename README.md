@@ -1,4 +1,4 @@
-Hey there, my name is Tojo (EN:Toodz FR:Toudz).
+Hey there, my name is Tojo (EN: [Toodz] FR: [Toudz]).
 
 With a Master's in Communication and Digital Technology, I'm transitioning to a career in front-end web development in 2024.
 
